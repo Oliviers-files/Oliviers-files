@@ -1,4 +1,5 @@
-<h1 align="left">VStack {</h1>
+<h2 align="left">VStack {</h2>
+
 ![D85FFF2F-B2EE-4653-AEBA-B90F07331805](https://github.com/user-attachments/assets/a6465712-d914-49e2-b33a-feb57d32e20a)
 
 <h1 align="center">Hi 😁, I'm Olivier</h1>
@@ -17,5 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviers-files&show_icons=true&locale=en" alt="oliviers-files" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliviers-files&" alt="oliviers-files" /></p>
-<h1 align="left"></h1>
-<h1 align="left">}</h1>
+<h1 align="left">.</h1>
+<h2 align="left">}</h2>

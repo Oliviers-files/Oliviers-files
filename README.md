@@ -1,6 +1,6 @@
 ![D85FFF2F-B2EE-4653-AEBA-B90F07331805](https://github.com/user-attachments/assets/a6465712-d914-49e2-b33a-feb57d32e20a)
 
-<h1 align="center">Hi 👋, I'm Olivier</h1>
+<h1 align="center">Hi 😁, I'm Olivier</h1>
 <h3 align="center">A passionate Junior iOS developer from Haiti</h3>
 
 <h3 align="left">Connect with me:</h3>

@@ -17,5 +17,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliviers-files&" alt="oliviers-files" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliviers-files&show_icons=true&locale=en&layout=compact" alt="oliviers-files" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviers-files&show_icons=true&locale=en" alt="oliviers-files" /></p>
 
-<h2 align="left">}</h2>
-<h3 align="left">.padding()</h3>
+<p> <h2 align="left">}</h2> </p>
+<p> </p><h3 align="left">.padding()</h3> </p>
